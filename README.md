@@ -4,7 +4,7 @@
 
 It is a modified and improved version of the theme running [Offbeat Bits - my personal blog](https://offbeatbits.com/).
 
-## Features
+## Features 
 
 - **light / dark mode switcher** + honoring browser color scheme preference
 - **sharing buttons for popular social media** (including Mastodon!) + copying post URL to clipboard
