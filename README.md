@@ -5,7 +5,7 @@
  
 It is a modified and improved version of the theme running [Offbeat Bits - my personal blog](https://offbeatbits.com/).
 
-## Features 
+## Features  
 
 
 
