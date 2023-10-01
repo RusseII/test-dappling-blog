@@ -17,7 +17,7 @@ Well, I’ll start that IPFS isn’t special. It’s cool, yeah, but the problem
 
 ## Absolute Paths - /some/examples
 
-### Local File System Example
+### Local File System Example 2
 
 Say you want to view your poker hand calculator web app. This existed on the web before, but you, being the pragmatic data-saver, downloaded a local copy to your computer. The site was open source, after all. It’d be wrong to ****not**** keep an extra copy. Now, how do you view it? 
 
