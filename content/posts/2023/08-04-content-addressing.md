@@ -7,7 +7,7 @@ tags:
 author: Russell
 ---
 
-# Intro 
+# Intro 2
 Content-based storage allows the lookup of a website based on its contents instead of its name or location. 
 
 It works by passing the content through a hash function, which generates a content address. 
